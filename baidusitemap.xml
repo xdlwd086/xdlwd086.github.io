@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+    
+    
+  <url>
+    <loc>http://yoursite.com/2016/07/25/Xidian-University/</loc>
+    <lastmod>2016-07-25T15:14:06.663Z</lastmod>
+    <data>
+        <display>
+        <title>Xidian University</title>
+        <pubTime>2016-07-25T15:14:06.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://yoursite.com/2016/07/25/hello-world/</loc>
+    <lastmod>2016-07-25T15:11:52.862Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-07-25T15:09:12.939Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
